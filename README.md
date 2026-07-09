@@ -50,7 +50,7 @@ Visualizes revenue, expenses, and financial KPIs.
 
 | File | Description |
 |------|-------------|
-| Healthcare_Analytics_Dashboard.pbix | Power BI project |
+| healthcare_dashboard.pbix | Power BI project |
 | Executive_Overview.png | Dashboard preview |
 | Disease_Insights.png | Dashboard preview |
 | Hospital_Performance.png | Dashboard preview |
